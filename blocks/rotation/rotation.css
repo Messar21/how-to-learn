@@ -6,6 +6,6 @@
     transform: rotate(360deg);
   }
 }
-.anim-rotation {
+.rotation {
   animation: rotation 20s infinite linear;
 }

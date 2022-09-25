@@ -43,7 +43,7 @@
 @import url("../blocks/footer/__column-list/footer__column-list.css");
 @import url("../blocks/footer/__social-icon/footer__social-icon.css");
 @import url("../blocks/footer/__column-link/footer__column-link.css");
-@import url("../blocks/opacity/opacity.css");
+@import url("../blocks/anim-opacity/anim-opacity.css");
 @import url("../blocks/techniques/techniques.css");
 @import url("../blocks/cards/cards.css");
 @import url("../blocks/cards/__title/cards__title.css");

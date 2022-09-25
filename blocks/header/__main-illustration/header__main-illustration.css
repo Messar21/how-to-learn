@@ -4,8 +4,7 @@
   position: absolute;
   bottom: 0;
   right: 0;
-  background-repeat: no-repeat;
-  background-position: center;
-  background-size: cover;
   z-index: -1;
+  object-fit: cover;
+  object-position: center;
 }
